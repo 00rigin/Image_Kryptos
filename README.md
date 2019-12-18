@@ -1,6 +1,6 @@
 # Image_Kryptos
-please Use Jupyter Notebook
-file is .ipynb
+please Use Jupyter Notebook <br>
+filetype is .ipynb
 
 this can encoring text to image.
 at ./image_incording/image_encording.ipynb, 
